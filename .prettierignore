@@ -1,0 +1,7 @@
+node_modules
+.next
+out
+package-lock.json
+test-results
+public/og-image.svg
+src/app/icon.svg
